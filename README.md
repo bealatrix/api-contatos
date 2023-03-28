@@ -1,7 +1,7 @@
 <h1 align="center"> API CONTATOS </h1>
 
 <p align="center">
-API CONTATOS em construção <br/>
+API CONTATOS (Em Construção) <br/>
 Objeto de estudo na displina Tópicos Especiais em Tecnologia I <br/>
 </p>
 

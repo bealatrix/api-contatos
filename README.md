@@ -8,7 +8,7 @@ Objeto de estudo na displina Tópicos Especiais em Tecnologia I <br/>
 <br>
  
 <p align="center">
-  <img alt="API CONTATOS" src=".github/preview.jpg" width="90%">
+  <img alt="API CONTATOS" src=".github/ifropreview.jpg" width="90%">
 </p>
 
 ## 🚀 Tecnologias <br/>

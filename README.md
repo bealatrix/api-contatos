@@ -11,14 +11,14 @@ Objeto de estudo na displina Tópicos Especiais em Tecnologia I <br/>
   <img alt="API CONTATOS" src=".github/preview.jpg" width="90%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias <br/>
 
-Essa API esta sendo desenvolvida com as seguintes tecnologias:
+Esta API esta sendo desenvolvida com as seguintes tecnologias:
 
 - Node.js
 - Git e Github
 - TypeScript
 
-## 💻 Projeto
+## 💻 Projeto <br/>
 
 A API CONTATOS esta sendo criada para a gestão de contatos.

@@ -1,14 +1,14 @@
 <h1 align="center"> API CONTATOS </h1>
 
 <p align="center">
-API CONTATOS em construção <br/>
+API CONTATOS (Em Construção) <br/>
 Objeto de estudo na displina Tópicos Especiais em Tecnologia I <br/>
 </p>
 
 <br>
  
 <p align="center">
-  <img alt="API CONTATOS" src=".github/ifropreview.jpg" width="90%">
+  <img alt="API CONTATOS" src=".github/ifropreview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias <br/>

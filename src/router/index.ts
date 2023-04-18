@@ -2,11 +2,11 @@
 
 import { Router } from "express";
 import baseRouter from './base';
-import contatoRouter from './contatos';
+import contatoRouter from './contato';
 
 const router = Router();
 
 router.use('/', baseRouter);
-router.use('/contatos', contatoRouter);
+router.use('/contato', contatoRouter);
 
 export default router;

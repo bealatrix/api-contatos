@@ -27,7 +27,7 @@ function loadContatos() {
 function saveContato(data: any) {
     contatos.push({
         id: contatos.length + 1,
-        data
+        ...data
     });
 
     fs.writeFileSync(ARQUIVO, JSON.stringify(contatos));
